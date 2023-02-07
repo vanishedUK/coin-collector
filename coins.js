@@ -9,8 +9,7 @@ const coins = [
   'Hamilton',
   'Washington',
   'Lincoln',
-  'Jefferson'
-];
+  'Jefferson'];
 
-// your code
+module.exports = coins;
 // export the coins array
